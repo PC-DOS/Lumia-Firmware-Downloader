@@ -42,4 +42,5 @@ Please see 3RDPARTY.txt for more information
 Example:
 
 ```LumiaFirmwareDownloader -c 059X4D5 -f 01078.00053.16236.35035 -o ATT-US -t RM-1104```
+
 ```LumiaFirmwareDownloader -t RM-1050 -v off```

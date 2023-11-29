@@ -212,6 +212,10 @@ namespace LumiaFirmwareDownloader
                            }
                        }
 
+                       if (emergency == null)
+                       {
+                           emergency = new List<string>();
+                       }
                        if (emergency.Count != 0)
                        {
                            for (int i = 0; i < emergency.Count; i++)
